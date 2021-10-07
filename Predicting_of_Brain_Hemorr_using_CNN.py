@@ -4,7 +4,7 @@
 # In[1]:
 
 
-get_ipython().run_line_magic('run', 'AI_final_project_module.ipynb')
+get_ipython().run_line_magic('run', 'Predicting_of_Brain_Hemorr_using_CNN_Module.py')
 import warnings
 warnings.filterwarnings('once')
 
